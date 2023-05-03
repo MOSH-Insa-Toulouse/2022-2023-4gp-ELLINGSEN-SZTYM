@@ -183,7 +183,7 @@ Afin d’améliorer la précision de nos courbes, nous aurions pu réaliser plus
 
 ## Datasheet
 
-Vous trouverez la datasheet de notre capteur ici : …. Vous pouvez aussi visualiser son code LaTeX via le lien suivant : https://www.overleaf.com/read/bkwftjfrphdg.  
+Vous trouverez la datasheet de notre capteur ici : .... Vous pouvez aussi visualiser son code LaTeX via le lien suivant : https://www.overleaf.com/read/bkwftjfrphdg.  
 
 ## Contacts
 
