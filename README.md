@@ -62,7 +62,16 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 
 ![SFlex](https://i.imgur.com/E0n00e0.png)
 
+L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance. 
+
 - LTC1050
+
+![SLTC](https://i.imgur.com/zmGb4Ow.png)
+
+![ELTC](https://i.imgur.com/PCp7mqO.png)
+
+![3DLTC](https://i.imgur.com/KLHhrwc.png)
+
 - Module Bluetooth
 - Écran OLED
 
