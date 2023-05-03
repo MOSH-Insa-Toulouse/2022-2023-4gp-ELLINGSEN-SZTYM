@@ -32,16 +32,16 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 ## Description du projet et livrables attendus
 
 ## Matériel nécessaire
-x2 résistances 100kΩ
-x2 résistances 1kΩ
-x1 résistance 10kΩ
-x1 capacité 1 μF
-x1 capacité 1 nF 
-x1 amplificateur opérationnel LTC 1050
-x1 module Bluetooth HC-05
-x1 écran OLED-2864 
-x1 flexsensor 
-x1 feuille de papier et un crayon à papier
+- x2 résistances 100kΩ
+- x2 résistances 1kΩ
+- x1 résistance 10kΩ
+- x1 capacité 1 μF
+- x1 capacité 1 nF 
+- x1 amplificateur opérationnel LTC 1050
+- x1 module Bluetooth HC-05
+- x1 écran OLED-2864 
+- x1 flexsensor 
+- x1 feuille de papier et un crayon à papier
 
 
 ## Simulations sous LTSpice
