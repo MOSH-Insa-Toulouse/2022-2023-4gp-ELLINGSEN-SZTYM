@@ -124,6 +124,9 @@ Notre application permet de se connecter au module Bluetooth en utilisant un bou
 ## Tests et résultats
 
 ### Banc de test
+
+![Cylindres](https://i.imgur.com/WK5iUlX.png)
+
 La caractérisation de notre capteur a été réalisée à l’aide des cylindres présents ci-dessus. Ces 7 cylindres possèdent un diamètre de 5 cm pour le plus grand à 2 cm pour le plus petit, avec un pas de 0,5 cm entre chacun. Il est donc possible de calculer la déformation du capteur à l’aide de la formule suivante : ε = e/2R, avec e l’épaisseur de notre capteur (0.3 mm), et R le rayon de chaque cylindre. 
 
 Il suffit de positionner le capteur graphite sur chacun des cylindres, du plus grand au plus petit et de noter la valeur renvoyée par celui-ci. Pour notre part, nous avons directement utilisé la valeur renvoyée par l’Arduino, qui est comprise entre 0 et 1024. Il est aussi nécessaire de noter la valeur renvoyée par le capteur lorsqu’il n’est soumis à aucune contrainte mécanique. 
