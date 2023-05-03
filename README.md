@@ -173,6 +173,6 @@ Vous trouverez la datasheet de notre capteur ici : …. Vous pouvez aussi visual
 ## Contacts
 
 N’hésitez pas à nous contacter pour toutes questions concernant ce projet. 
-SZTYM Alice : sztym@etud.insa-toulouse.fr
-ELLINGSEN Abélia : aellings@etud.insa-toulouse.fr 
+- SZTYM Alice : sztym@etud.insa-toulouse.fr
+- ELLINGSEN Abélia : aellings@etud.insa-toulouse.fr 
 
