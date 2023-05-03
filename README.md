@@ -79,6 +79,10 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 
 - Écran OLED
 
+![SOLED](https://i.imgur.com/m3hI7Qa.png)
+![EOLED](https://i.imgur.com/E9i0nWD.png)
+![3DOLED](https://i.imgur.com/YOtpGX7.png)
+
 ### Schématique
 
 ### PCB
