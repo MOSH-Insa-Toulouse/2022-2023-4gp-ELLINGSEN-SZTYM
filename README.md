@@ -119,6 +119,7 @@ Pour capturer et visualiser les variations de résistance lors de la déformatio
 Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes.
 
 ![Telephone](https://i.imgur.com/Gq8S48b.png)
+![QRCode](https://i.imgur.com/7QgErzL.png)
 
 ## Tests et résultats
 
