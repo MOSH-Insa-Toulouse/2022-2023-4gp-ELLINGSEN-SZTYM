@@ -90,6 +90,8 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 ### PCB
 Ensuite, nous avons positionné les composants sur le shield et édité le circuit imprimé en répartissant les composants de manière à éviter les croisements de fils et à assurer une connexion correcte. Pour cela nous avons suivi les consignes imposées, avec des pistes de 1 mm, des pastilles de 2 mm et des zones de perçage de 0,8 mm.
 
+![PCB](https://i.imgur.com/qWKFQTP.png)
+
 ### Visualisation 3D
 Le téléchargement des modèles non fournis par Kicad sur le site “grabcad.com” des composants nous a permis d'obtenir un modèle 3D de notre PCB final. Cela nous a permis de vérifier que les positions des composants ne se gênaient pas mutuellement et qu'ils disposaient tous d'un espace suffisant sur le shield.
 
