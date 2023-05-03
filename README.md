@@ -47,7 +47,11 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 ## Simulations sous LTSpice
 
 ## KiCad
+Le logiciel Kicad a été essentiel dans la réalisation de schémas électriques et la modélisation de notre PCB avant la création du shield. Ce processus implique plusieurs étapes. Tout d'abord, nous avons créé les empreintes de tous les composants que nous souhaitions incorporer, puis défini les connexions entre eux ainsi qu'avec la carte Arduino. Ensuite, nous avons édité le PCB en suivant les consignes imposées, avant de conclure par la visualisation en 3D du PCB complet.
+
 ### Symboles, empreintes et visualisation 3D des composants
+Afin de réaliser le schéma du circuit, nous avons créé une librairie d'empreintes pour les composants qui n'étaient pas disponibles dans les librairies intégrées au logiciel. Ensuite, nous avons établi les connexions entre les composants et la carte Arduino une fois que tous les éléments ont été schématisés.
+
 ### Schématique
 ### PCB
 ### Visualisation 3D
