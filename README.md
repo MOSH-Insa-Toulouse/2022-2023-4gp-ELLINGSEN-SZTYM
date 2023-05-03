@@ -71,8 +71,12 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 ![ELTC](https://i.imgur.com/dWlhD4B.png)
 ![3DLTC](https://i.imgur.com/Wbp7d3v.png)
 
-
 - Module Bluetooth
+
+![SBluetooth](https://i.imgur.com/d9h6ZTR.png)
+![EBluetooth](https://i.imgur.com/N1779Be.png)
+![3DBluetooth](https://i.imgur.com/RCw3NY6.png)
+
 - Écran OLED
 
 ### Schématique
