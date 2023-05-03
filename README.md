@@ -117,7 +117,11 @@ Grâce à l’aide de Catherine Crouzet, nous avons concrétisé le PCB physique
 
 Par la suite, nous avons percé des trous dans le PCB pour pouvoir y insérer les composants. Nous avons utilisé des trous d'un diamètre de 1 mm pour les broches de connexion de la carte Arduino, et de 0,8 mm pour les autres composants. 
 
-Enfin, nous avons pu souder les composants sur la carte à l'aide d'étain.
+Enfin, nous avons pu souder les composants sur la carte à l'aide d'étain. 
+
+Nous obtenons le résultat suivant :
+
+![Shield](https://i.imgur.com/brIazm4.png)
 
 ## Arduino
 
