@@ -131,7 +131,7 @@ La valeur récupérée du capteur graphite est transférée au module Bluetooth.
 
 Pour capturer et visualiser les variations de résistance lors de la déformation du capteur envoyées par le module Bluetooth, nous avons développé une application Android sur la plateforme MIT App Inventor.
 
-Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes. L'application est téléchargeable directement via le QR code ci-dessous. Vous pouvez aussi le retrouver dans le fichier correspondant. 
+Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes. L'application est téléchargeable directement via le QR code ci-dessous. Vous pouvez aussi retrouver l'application dans le dossier associé [Application Bluetooth](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-ELLINGSEN-SZTYM/tree/main/Application%20Bluetooth). 
 
 ![Telephone](https://i.imgur.com/Gq8S48b.png)
 ![QRCode](https://i.imgur.com/7QgErzL.png)
