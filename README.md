@@ -95,6 +95,8 @@ Ensuite, nous avons positionné les composants sur le shield et édité le circu
 ### Visualisation 3D
 Le téléchargement des modèles non fournis par Kicad sur le site “grabcad.com” des composants nous a permis d'obtenir un modèle 3D de notre PCB final. Cela nous a permis de vérifier que les positions des composants ne se gênaient pas mutuellement et qu'ils disposaient tous d'un espace suffisant sur le shield.
 
+![3D](https://i.imgur.com/j9Miyfr.png)
+
 ## Fabrication du Shield
 Grâce à l’aide de Catherine Crouzet, nous avons concrétisé le PCB physique. Il est fabriqué à partir d'une plaque d'époxy recouverte d'une fine couche de cuivre conducteur. Notre schéma de PCB, issu de Kicad, a été imprimé et utilisé comme masque lors de l'exposition aux rayons UV pour isoler la plaque. Un révélateur a été utilisé pour éliminer la résine non isolée. Ensuite, un bain de perchlorure de fer a gravé le cuivre non protégé par la résine. Ainsi, nous avons obtenu le PCB physique conforme à notre modèle Kicad.
 
