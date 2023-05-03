@@ -11,22 +11,37 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 ## Sommaire
 
 1. [Description du projet et livrables attendus](#description-du-projet-et-livrables-attendus)
-2. [Matériel nécessaire]
-3. [KiCad](#KiCad)
-3.1. [Symboles, empreintes et visualisation 3D des composants ](#KiCad)
+2. [Matériel nécessaire](#Matériel-nécessaire)
+3. [Simulations sous LTSpice](#Simulations sous LTSpice)
+4. [KiCad](#KiCad)
+  1. [Symboles, empreintes et visualisation 3D des composants](#KiCad)
+  2. [Schématique](#Schématique)
+  3. [PCB](#PCB)
+  4. [Visualisation 3D](#Visualisation 3D)
+5. [Fabrication du Shield](#Fabrication du Shield)
+6. [Arduino](#Arduino)
+7. [Application Bluetooth](#Application Bluetooth)
+8. [Tests et résultats](#Tests et résultats)
+  1. [Banc de test](#Banc de test)
+  2. [Résultats obtenus](#Résultats obtenus)
+  3. [Analyse des résultats](#Analyse des résultats)
+  4. [Pistes d'améliorations](#Pistes d'améliorations)
+9. [Datasheet](#Datasheet)
+10. [Contacts](#Contacts) 
 
 ## Description du projet et livrables attendus
 
-## Matériel nécessaire 
+## Matériel nécessaire
 
 ## Simulations sous LTSpice
 
 ## KiCad
-### Symboles, empreintes et visualisation 3D des composants 
+### Symboles, empreintes et visualisation 3D des composants
 ### Schématique
 ### PCB
 ### Visualisation 3D
-### Fabrication du Shield
+
+## Fabrication du Shield
 
 ## Arduino
 
