@@ -52,6 +52,9 @@ Le logiciel Kicad a été essentiel dans la réalisation de schémas électrique
 ### Symboles, empreintes et visualisation 3D des composants
 Afin de réaliser le schéma du circuit, nous avons créé une librairie d'empreintes pour les composants qui n'étaient pas disponibles dans les librairies intégrées au logiciel. Ensuite, nous avons établi les connexions entre les composants et la carte Arduino une fois que tous les éléments ont été schématisés.
 
+- Capteur graphite
+![SCapteur](https://drive.google.com/file/d/1eZayATgjV8BeLtFh3DS6VpInqa-U5fdx/view?usp=share_link)
+
 ### Schématique
 ### PCB
 ### Visualisation 3D
