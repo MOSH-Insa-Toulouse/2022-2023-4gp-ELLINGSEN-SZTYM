@@ -10,7 +10,7 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 
 ## Sommaire
 
-1. [Description du projet et livrables attendus](#description-du-projet-et-livrables-attendus)
+1. [Description du projet et livrables attendus](#Description-du-projet-et-livrables-attendus)
 2. [Matériel nécessaire](#Matériel-nécessaire)
 3. [Simulations sous LTSpice](#Simulations-sous-LTSpice)
 4. [KiCad](#KiCad)
