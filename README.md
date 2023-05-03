@@ -61,12 +61,15 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 
 - Flexsensor
 
-
+![SFlex](https://i.imgur.com/ioqmnEW.png)]
 
 L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance. 
 
 - LTC1050
 
+![SLTC](https://i.imgur.com/SkBirY1.png)
+![ELTC](https://i.imgur.com/dWlhD4B.png)
+![3DLTC](https://i.imgur.com/Wbp7d3v.png)
 
 
 - Module Bluetooth
