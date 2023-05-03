@@ -133,7 +133,9 @@ Il suffit de positionner le capteur graphite sur chacun des cylindres, du plus g
 
 Une fois les mesures réalisées, il est possible de tracer la variation relative de résistance du capteur graphite en fonction de la déformation appliquée. 
 
-Nous avons tracé les courbes pour deux types de crayons différents : le HB et le B, en tension et en compression. Les valeurs en tension correspondent à la position de droite, et les valeurs en compression à la position de gauche.
+Nous avons tracé les courbes pour deux types de crayons différents : le HB et le B, en tension et en compression. Les valeurs en tension correspondent à la position du haut, et les valeurs en compression à la position du bas.
+
+![Tension/compression](https://i.imgur.com/X4vosuz.png)
 
 ### Résultats obtenus
 
