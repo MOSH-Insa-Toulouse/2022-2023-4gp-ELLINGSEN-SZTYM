@@ -10,24 +10,24 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 
 ## Sommaire
 
-1. [Description du projet et livrables attendus](#Description-du-projet-et-livrables-attendus)
-2. [Matériel nécessaire](#Matériel-nécessaire)
-3. [Simulations sous LTSpice](#Simulations-sous-LTSpice)
-4. [KiCad](#KiCad)
-  1. [Symboles, empreintes et visualisation 3D des composants](#KiCad)
-  2. [Schématique](#Schématique)
-  3. [PCB](#PCB)
-  4. [Visualisation 3D](#Visualisation-3D)
-5. [Fabrication du Shield](#Fabrication-du-Shield)
-6. [Arduino](#Arduino)
-7. [Application Bluetooth](#Application-Bluetooth)
-8. [Tests et résultats](#Tests-et-résultats)
-  1. [Banc de test](#Banc-de-test)
-  2. [Résultats obtenus](#Résultats-obtenus)
-  3. [Analyse des résultats](#Analyse-des-résultats)
-  4. [Pistes d'améliorations](#Pistes-d'améliorations)
-9. [Datasheet](#Datasheet)
-10. [Contacts](#Contacts) 
+1. [Description du projet et livrables attendus](#description-du-projet-et-livrables-attendus)
+2. [Matériel nécessaire](#matériel-nécessaire)
+3. [Simulations sous LTSpice](#simulations-sous-ltspice)
+4. [KiCad](#kicad)
+   1. [Symboles, empreintes et visualisation 3D des composants](#symboles-empreintes-et-visualisation-3d-des-composants)
+   2. [Schématique](#schématique)
+   3. [PCB](#pcb)
+   4. [Visualisation 3D](#visualisation-3d)
+5. [Fabrication du Shield](#fabrication-du-shield)
+6. [Arduino](#arduino)
+7. [Application Bluetooth](#application-bluetooth)
+8. [Tests et résultats](#tests-et-résultats)
+   1. [Banc de test](#banc-de-test)
+   2. [Résultats obtenus](#résultats-obtenus)
+   3. [Analyse des résultats](#analyse-des-résultats)
+   4. [Pistes d'améliorations](#pistes-daméliorations)
+9. [Datasheet](#datasheet)
+10. [Contacts](#contacts)
 
 ## Description du projet et livrables attendus
 
@@ -51,11 +51,8 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 ### Banc de test
 ### Résultats obtenus
 ### Analyse des résultats
-### Pistes d’améliorations
+### Pistes d'améliorations
 
 ## Datasheet
 
 ## Contacts
-
-
-
