@@ -53,7 +53,9 @@ Le logiciel Kicad a été essentiel dans la réalisation de schémas électrique
 Afin de réaliser le schéma du circuit, nous avons créé une librairie d'empreintes pour les composants qui n'étaient pas disponibles dans les librairies intégrées au logiciel. Ensuite, nous avons établi les connexions entre les composants et la carte Arduino une fois que tous les éléments ont été schématisés.
 
 - Capteur graphite
-![Capteur_Schematic.png](https://tinypic.host/images/2023/05/03/Capteur_Schematic.png)
+
+![Imgur](https://i.imgur.com/xKIDfKd.png)
+
 
 - Flexsensor
 - LTC1050
