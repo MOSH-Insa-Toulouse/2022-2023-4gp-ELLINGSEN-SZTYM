@@ -1,7 +1,5 @@
 # 2022-2023-4gp-ELLINGSEN-SZTYM
 
-TD Capteur
-
 ## TODO LIST
 
 1. Add folders organization
