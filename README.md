@@ -2,10 +2,8 @@
 
 ## Sommaire
 
-1. Add folders organization
-2. Add KiCad project
-3. Create KiCad schematic
-4. Add Arduino project
+- [KiCad](#KiCad)
+  - [Les composants](#KiCad)
 
 ## KiCad project
 
