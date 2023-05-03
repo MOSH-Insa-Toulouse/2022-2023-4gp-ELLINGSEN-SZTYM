@@ -54,10 +54,14 @@ Afin de réaliser le schéma du circuit, nous avons créé une librairie d'empre
 
 - Capteur graphite
 
-![Imgur](https://i.imgur.com/xKIDfKd.png)
+![SCapteur](https://i.imgur.com/xKIDfKd.png)
 
+L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance. 
 
 - Flexsensor
+
+![SFlex](https://i.imgur.com/E0n00e0.png)
+
 - LTC1050
 - Module Bluetooth
 - Écran OLED
