@@ -61,7 +61,7 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 
 - Flexsensor
 
-![SFlex](https://i.imgur.com/ioqmnEW.png)]
+![SFlex](https://i.imgur.com/ioqmnEW.png)
 
 L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance. 
 
@@ -84,6 +84,8 @@ L'empreinte et le modèle 3D ont ensuite été modélisés par une résistance.
 ![3DOLED](https://i.imgur.com/YOtpGX7.png)
 
 ### Schématique
+
+![Schematic](https://i.imgur.com/r6hKkbN.png)
 
 ### PCB
 Ensuite, nous avons positionné les composants sur le shield et édité le circuit imprimé en répartissant les composants de manière à éviter les croisements de fils et à assurer une connexion correcte. Pour cela nous avons suivi les consignes imposées, avec des pistes de 1 mm, des pastilles de 2 mm et des zones de perçage de 0,8 mm.
