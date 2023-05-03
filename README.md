@@ -121,7 +121,7 @@ Enfin, nous avons pu souder les composants sur la carte à l'aide d'étain.
 
 Nous obtenons le résultat suivant :
 
-![Shield](https://i.imgur.com/brIazm4.png)
+![Shield](https://i.imgur.com/EyuTfaB.png)
 
 ## Arduino
 
