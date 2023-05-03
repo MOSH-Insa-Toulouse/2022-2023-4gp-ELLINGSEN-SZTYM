@@ -140,6 +140,9 @@ Nous avons tracé les courbes pour deux types de crayons différents : le HB et 
 ### Résultats obtenus
 
 Voici les courbes en tension et en compression obtenues pour les crayons HB et B : 
+
+![Tension](https://i.imgur.com/IHZHU7O.png)
+
 Vous trouverez le détail de chaque courbe dans le dossier : … 
 
 ### Analyse des résultats
