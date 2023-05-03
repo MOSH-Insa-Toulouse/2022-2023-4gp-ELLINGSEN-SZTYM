@@ -31,6 +31,21 @@ Vous retrouverez à la suite de cette introduction, toutes les étapes de réali
 
 ## Description du projet et livrables attendus
 
+Pour atteindre les objectifs du projet, nous avons fourni plusieurs livrables :
+
+- Des simulations sous LTSpice.
+- Un schéma et un PCB modélisés avec KiCad.
+- Un shield PCB
+- Un code Arduino permettant de piloter le montage.
+- Une application Android
+- Un protocole de test et de calibration
+- Une datasheet
+
+Pour réaliser ces livrables, nous avons suivi plusieurs étapes. Tout d'abord, nous avons effectué des simulations avec le logiciel LTSpice pour vérifier que le circuit électrique fonctionnait comme prévu. Ensuite, nous avons conçu le schéma électrique et le PCB à l'aide de KiCad. Une fois le PCB imprimé, nous l'avons utilisé pour fabriquer et assembler le shield. Notre montage était connecté à une carte Arduino Uno comprenant un module Bluetooth, un écran OLED, un amplificateur transimpédance, le capteur graphite et un capteur de flexion.
+
+Une fois le shield prêt, nous avons développé le code Arduino nécessaire pour piloter le shield, ainsi qu'une application Android permettant de récupérer les variations de résistance du capteur graphite. Ensuite, nous avons mis en place un banc de test pour caractériser le capteur de graphite avec différents types de mines (HB et B). Enfin, nous avons créé une datasheet décrivant les caractéristiques de notre capteur.
+
+
 ## Matériel nécessaire
 - x2 résistances 100kΩ
 - x2 résistances 1kΩ
@@ -116,7 +131,7 @@ La valeur récupérée du capteur graphite est transférée au module Bluetooth.
 
 Pour capturer et visualiser les variations de résistance lors de la déformation du capteur envoyées par le module Bluetooth, nous avons développé une application Android sur la plateforme MIT App Inventor.
 
-Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes.
+Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes. L'application est téléchargeable directement via le QR code ci-dessous. Vous pouvez aussi le retrouver dans le fichier correspondant. 
 
 ![Telephone](https://i.imgur.com/Gq8S48b.png)
 ![QRCode](https://i.imgur.com/7QgErzL.png)
