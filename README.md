@@ -1,6 +1,6 @@
 # 2022-2023-4gp-ELLINGSEN-SZTYM
 
-## TODO LIST
+## Sommaire
 
 1. Add folders organization
 2. Add KiCad project
