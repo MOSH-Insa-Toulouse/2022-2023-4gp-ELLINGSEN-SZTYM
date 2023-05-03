@@ -135,7 +135,7 @@ Une fois les mesures réalisées, il est possible de tracer la variation relativ
 
 Nous avons tracé les courbes pour deux types de crayons différents : le HB et le B, en tension et en compression. Les valeurs en tension correspondent à la position du haut, et les valeurs en compression à la position du bas.
 
-![Tension/compression](https://i.imgur.com/X4vosuz.png)
+![Tensionetcompression](https://i.imgur.com/ZjdwSRL.png)
 
 ### Résultats obtenus
 
