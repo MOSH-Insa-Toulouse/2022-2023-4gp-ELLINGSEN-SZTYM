@@ -64,10 +64,10 @@ Une fois le shield prêt, nous avons développé le code Arduino nécessaire pou
 Avant de créer le circuit imprimé, il est très utile d'utiliser le logiciel LTSpice pour effectuer des tests sur le circuit. Cela nous permet de vérifier à l'avance que le fonctionnement correspond bien à nos attentes, afin d'éviter d'éventuels problèmes ultérieurs. Nous avons réalisé des simulations du circuit, ainsi que des simulations des solutions mises en place pour une utilisation optimale de l'amplificateur, en plaçant judicieusement des filtres. Vous retrouverez toutes nos simulations ainsi qu'un rapport sur celles-ci ici : [LTSpice](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-ELLINGSEN-SZTYM/tree/66e361c9967f16069c621319811fa84615d7094b/LTSpice). 
 
 ## KiCad
-Le logiciel Kicad a été essentiel dans la réalisation de schémas électriques et la modélisation de notre PCB avant la création du shield. Ce processus implique plusieurs étapes. Tout d'abord, nous avons créé les empreintes de tous les composants que nous souhaitions incorporer, puis défini les connexions entre eux ainsi qu'avec la carte Arduino. Ensuite, nous avons édité le PCB en suivant les consignes imposées, avant de conclure par la visualisation en 3D du PCB complet.
+Le logiciel Kicad a été essentiel dans la réalisation de schémas électriques et la modélisation de notre PCB avant la création du shield. Ce processus implique plusieurs étapes. Tout d'abord, nous avons créé les symboles et les empreintes de tous les composants que nous souhaitions incorporer, puis défini les connexions entre eux ainsi qu'avec la carte Arduino. Ensuite, nous avons édité le PCB en suivant les consignes imposées, avant de conclure par la visualisation en 3D du PCB complet.
 
 ### Symboles, empreintes et visualisation 3D des composants
-Afin de réaliser le schéma du circuit, nous avons créé une librairie d'empreintes pour les composants qui n'étaient pas disponibles dans les librairies intégrées au logiciel. Ensuite, nous avons établi les connexions entre les composants et la carte Arduino une fois que tous les éléments ont été schématisés.
+Afin de réaliser le schéma du circuit, nous avons créé une librairie de symboles et d'empreintes associées pour les composants qui n'étaient pas disponibles dans les librairies intégrées au logiciel. Ensuite, nous avons établi les connexions entre les composants et la carte Arduino une fois que tous les éléments ont été schématisés.
 
 - Capteur graphite
 
