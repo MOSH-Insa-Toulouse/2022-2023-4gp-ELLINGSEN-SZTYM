@@ -163,7 +163,7 @@ Nous avons tracé les courbes pour deux types de crayons différents : le HB et 
 Voici les courbes en tension et en compression obtenues pour les crayons HB et B : 
 
 ![Tension](https://i.imgur.com/FvXM7NO.png)
-![Compression](https://i.imgur.com/dWor5Si.png)
+![Compression](https://i.imgur.com/DJBPgb7.png)
 
 Vous trouverez le détail de chaque courbe dans le dossier [Banc de test](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-ELLINGSEN-SZTYM/tree/main/Banc%20de%20test)
 
@@ -179,7 +179,7 @@ Sous compression, les particules de graphite se rapprochent, ce qui facilite la 
 
 Nous avons aussi caractérisé le Flexsensor en tension, afin de comparer sa sensibilité à notre capteur graphite. Voici la courbe obtenue :
 
-![Flextension](https://i.imgur.com/WmnOB0P.png)
+![Flextension](https://i.imgur.com/bHXVBoK.png)
 
 On remarque que le Flexsensor industriel possède une sensibilité plus élevée. Le coefficient directeur de sa droite est en effet plus élevé que n’importe quel crayon que nous avons utilisé. Il est de 57702,122. Il est donc capable de détecter des variations plus fines du signal délivré. Il est aussi beaucoup plus robuste, et son utilisation nécessite beaucoup moins de précautions que notre capteur graphite. 
 
