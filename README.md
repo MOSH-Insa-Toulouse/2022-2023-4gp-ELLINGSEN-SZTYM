@@ -184,7 +184,7 @@ On remarque que le Flexsensor industriel possède une sensibilité plus élevée
 
 ### Pistes d'améliorations
 
-Afin d’améliorer la précision de nos courbes, nous aurions pu réaliser plus de mesures et dans de meilleures conditions. En effet, les valeurs obtenues ne sont pas très précises et sont très influencées par la quantité de graphite présente, le placement des pinces métalliques et la façon dont le capteur est courbé. Il est donc difficile d’obtenir une expérience de mesure répétable.
+Afin d’améliorer la précision de nos courbes, nous aurions pu réaliser plus de mesures et dans de meilleures conditions. En effet, les valeurs obtenues ne sont pas très précises et sont très influencées par la quantité de graphite présente, le placement des pinces métalliques et la façon dont le capteur est courbé. Il est donc difficile d’obtenir une expérience de mesure répétable. De même, dans un esprit d'optimisation nous aurions pu utiliser moins d'espace sur notre Shield en améliorant notre routage sur KiCad. Les branchements en diagonale auraient pu être évités. 
 
 ## Datasheet
 
