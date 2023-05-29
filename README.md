@@ -137,10 +137,9 @@ La valeur récupérée du capteur graphite est transférée au module Bluetooth.
 
 Pour capturer et visualiser les variations de résistance lors de la déformation du capteur envoyées par le module Bluetooth, nous avons développé une application Android sur la plateforme MIT App Inventor.
 
-Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes. L'application est téléchargeable directement via le QR code ci-dessous. Vous pouvez aussi retrouver l'application dans le dossier associé [Application Bluetooth](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-ELLINGSEN-SZTYM/tree/main/Application%20Bluetooth). 
+Notre application permet de se connecter au module Bluetooth en utilisant un bouton dédié qui affiche les périphériques disponibles localement. Une fois la connexion établie, un canvas affiche la courbe de variation de résistance en fonction du temps. En bas de l'écran, un champ de texte affiche la valeur de résistance du capteur en mégaohms. Les données sont actualisées toutes les 50 millisecondes. L'application est téléchargeable directement via un QR code crée par la plateforme. Vous pouvez retrouver l'application dans le dossier associé [Application Bluetooth](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-ELLINGSEN-SZTYM/tree/main/Application%20Bluetooth). 
 
 ![Telephone](https://i.imgur.com/Gq8S48b.png)
-![QRCode](https://i.imgur.com/IsCxadj.png)
 
 ## Tests et résultats
 
@@ -169,8 +168,8 @@ Vous trouverez le détail de chaque courbe dans le dossier [Banc de test](https:
 
 ### Analyse des résultats
 
-En tension, le crayon HB possède un coefficient de droite de 3125,738 et le B 1702,870.
-En compression, le crayon HB possède un coefficient de droite de -6378,553 et le B -3431,997.
+En tension, le crayon HB possède un coefficient de droite de 3685,740 et le B 1290,102.
+En compression, le crayon HB possède un coefficient de droite de -8298,510 et le B -3458,198.
 
 On remarque que plus un crayon est gras, donc plus il est concentré en graphite, moins sa variation relative de résistance est élevée en valeur absolue en tension et en compression. 
 
