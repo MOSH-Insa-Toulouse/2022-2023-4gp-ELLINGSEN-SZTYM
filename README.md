@@ -180,7 +180,7 @@ Nous avons aussi caractérisé le Flexsensor en tension, afin de comparer sa sen
 
 ![Flextension](https://i.imgur.com/bHXVBoK.png)
 
-On remarque que le Flexsensor industriel possède une sensibilité plus élevée. Le coefficient directeur de sa droite est en effet plus élevé que n’importe quel crayon que nous avons utilisé. Il est de 57702,122, même si nous avons forcé les droites de nos capteurs graphite à passer par 0. Il est donc capable de détecter des variations plus fines du signal délivré. Il est aussi beaucoup plus robuste, et son utilisation nécessite beaucoup moins de précautions que notre capteur graphite. 
+On remarque que le Flexsensor industriel possède une sensibilité plus élevée. Le coefficient directeur de sa droite est en effet beaucoup plus élevé que n’importe quel crayon que nous avons utilisé, même si nous avons forcé les droites de nos capteurs graphite à passer par 0. Il est de 69318.405. Il est donc capable de détecter des variations plus fines du signal délivré. Il est aussi beaucoup plus robuste, et son utilisation nécessite beaucoup moins de précautions que notre capteur graphite. 
 
 ### Pistes d'améliorations
 
