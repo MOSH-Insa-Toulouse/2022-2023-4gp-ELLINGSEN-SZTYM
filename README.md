@@ -165,6 +165,7 @@ Voici les courbes en tension et en compression obtenues pour les crayons HB et B
 ![Tension](https://i.imgur.com/FvXM7NO.png)
 ![Compression](https://i.imgur.com/DJBPgb7.png)
 
+Ces tracés ont été effectués sur Jupyter Notebbok (version 6.4.8)
 Vous trouverez le détail de chaque courbe dans le dossier [Banc de test](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-ELLINGSEN-SZTYM/tree/main/Banc%20de%20test)
 
 ### Analyse des résultats
