@@ -132,6 +132,7 @@ Il permet de récupérer la valeur renvoyée par le capteur graphite, de la pass
 Il permet aussi de récupérer la valeur renvoyée par le Flexsensor, de la convertir en valeur décimale, puis en résistance et de donner la valeur de l’angle de courbure associé.
 Le tout est envoyé sur l’écran OLED grâce à la librairie Adafruit_SSD1306.h.
 La valeur récupérée du capteur graphite est transférée au module Bluetooth.
+La version 2.0.4 d'Arduino a été utilisée.
 
 ## Application Bluetooth
 
